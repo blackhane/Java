@@ -51,3 +51,7 @@
 - sub3.직렬화/역직렬화
 ## Ch11. JDBC
 - sub1.JDBC 실습
+- sub2.executeUpadte (SQL INSERT,UPDATE,DELETE)
+- sub3.executeQuery (SQL SELECT)
+- sub4.PreparedStatement
+- sub5.

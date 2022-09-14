@@ -29,7 +29,7 @@ public class JDBCTest {
 			System.out.println("데이터베이스 접속 실패");
 		}
 		
-		}catch(Exception e) {
+		} catch(Exception e) {
 			e.printStackTrace();
 		}
 		
