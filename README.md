@@ -10,7 +10,7 @@
 - sub1.조건문 if
 - sub2.조건문 switch
 - sub3.조건문 for
-- sub4.조건문 while# Java
+- sub4.조건문 while
 ## Ch04. Java 배열
 - sub1.1차원 배열
 - sub2.다차원 배열
@@ -24,7 +24,7 @@
 - sub4.싱글톤 객체와 인스턴스 객체
 - sub5.클래스 상속
 - sub6.오버라이드
-- sub7.다향성
+- sub7.다형성
 ## Ch6. 추상과 인터페이스
 - sub1.추상클래스
 - sub2.인터페이스
@@ -49,9 +49,14 @@
 - sub1.문자 스트림
 - sub2.보조 입출력 스트림
 - sub3.직렬화/역직렬화
+- sub4.프로퍼티
 ## Ch11. JDBC
 - sub1.JDBC 실습
 - sub2.executeUpadte (SQL INSERT,UPDATE,DELETE)
 - sub3.executeQuery (SQL SELECT)
 - sub4.PreparedStatement
-- sub5.
+- sub5.Transaction
+## Ch12. 스레드
+- sub1.스레드 실습
+- sub2.스레드 join
+- sub3.스레드 활용
